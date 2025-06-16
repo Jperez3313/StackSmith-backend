@@ -9,6 +9,11 @@ This is the backend API for StackSmith. It accepts software stack input (like co
 - Supports compiler and version pinning
 - Ready for future expansion (e.g., spack install automation)
 
+## Software Dependencies
+
+### 1. **Spack**
+StackSmith requires [Spack](https://spack.io) to be installed and available 
+
 ## Getting Started
 
 ```bash
